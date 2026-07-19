@@ -1,20 +1,37 @@
+import { useState } from "react";
+
 import "./App.css";
 import Flag from "./components/Flag";
 
-import countries from "./countries.json";
+import type { CountryData, CountriesMap } from "./types";
+
+import countriesData from "./countries.json";
+import { multisearch } from "./lib/filter";
+const countries = countriesData as CountriesMap;
 
 function App() {
-  const selectCountries = Object.entries(countries).filter(([,]) => {
-    return true;
-  });
+  const [searchText, setSearchText] = useState("");
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setSearchText(e.target.value);
+  };
+
+  const selectedCountries: [string, CountryData][] = multisearch(
+    countries,
+    searchText,
+  );
+
   return (
     <>
       <header>
         <h1>Flag explorer</h1>
       </header>
       <main>
+        <div className="search">
+          <input type="text" onChange={handleChange} />
+        </div>
         <div className="flag-grid">
-          {selectCountries.map(([countryCode, country]) => (
+          {selectedCountries.map(([countryCode, country]) => (
             <Flag countryCode={countryCode.toLowerCase()} name={country.name} />
           ))}
         </div>
