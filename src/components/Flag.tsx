@@ -9,7 +9,10 @@ export default function Flag({
 }) {
   return (
     <div className={classes.flag}>
-      <img src={`/flags/${countryCode}.svg`} alt={name} />
+      <img
+        src={`${import.meta.env.BASE_URL}/flags/${countryCode}.svg`}
+        alt={name}
+      />
       <h1 className={classes.name}>{name}</h1>
     </div>
   );
