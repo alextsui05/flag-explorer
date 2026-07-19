@@ -1,0 +1,2591 @@
+{
+    "AD": {
+        "name": "Andorra",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Gold",
+            "Navy",
+            "Brown",
+            "White",
+            "Blue"
+        ]
+    },
+    "AE": {
+        "name": "United Arab Emirates",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "White",
+            "Black",
+            "Red"
+        ]
+    },
+    "AF": {
+        "name": "Afghanistan",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Black",
+            "Green",
+            "White"
+        ]
+    },
+    "AG": {
+        "name": "Antigua and Barbuda",
+        "continent": "North America",
+        "colors": [
+            "White",
+            "Black",
+            "Gold",
+            "Blue",
+            "Red"
+        ]
+    },
+    "AI": {
+        "name": "Anguilla",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red",
+            "Yellow",
+            "Light Blue",
+            "Orange"
+        ]
+    },
+    "AL": {
+        "name": "Albania",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Black"
+        ]
+    },
+    "AM": {
+        "name": "Armenia",
+        "continent": "Asia",
+        "colors": [
+            "Gold",
+            "Navy",
+            "Red"
+        ]
+    },
+    "AO": {
+        "name": "Angola",
+        "continent": "Africa",
+        "colors": [
+            "Black",
+            "Red",
+            "Gold"
+        ]
+    },
+    "AQ": {
+        "name": "Antarctica",
+        "continent": "Antarctica",
+        "colors": [
+            "Navy",
+            "White"
+        ]
+    },
+    "AR": {
+        "name": "Argentina",
+        "continent": "South America",
+        "colors": [
+            "Light Blue",
+            "White",
+            "Gold",
+            "Brown"
+        ]
+    },
+    "AS": {
+        "name": "American Samoa",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Red",
+            "White",
+            "Black",
+            "Gold",
+            "Brown",
+            "Silver"
+        ]
+    },
+    "AT": {
+        "name": "Austria",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "AU": {
+        "name": "Australia",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red"
+        ]
+    },
+    "AW": {
+        "name": "Aruba",
+        "continent": "North America",
+        "colors": [
+            "Blue",
+            "Gold",
+            "Red",
+            "White"
+        ]
+    },
+    "AX": {
+        "name": "Åland Islands",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "Gold",
+            "Red"
+        ]
+    },
+    "AZ": {
+        "name": "Azerbaijan",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "Red",
+            "Teal",
+            "White"
+        ]
+    },
+    "BA": {
+        "name": "Bosnia and Herzegovina",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "Gold",
+            "White"
+        ]
+    },
+    "BB": {
+        "name": "Barbados",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "Gold",
+            "Black"
+        ]
+    },
+    "BD": {
+        "name": "Bangladesh",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "Red"
+        ]
+    },
+    "BE": {
+        "name": "Belgium",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Gold",
+            "Black"
+        ]
+    },
+    "BF": {
+        "name": "Burkina Faso",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Red",
+            "Gold"
+        ]
+    },
+    "BG": {
+        "name": "Bulgaria",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Green",
+            "Red"
+        ]
+    },
+    "BH": {
+        "name": "Bahrain",
+        "continent": "Asia",
+        "colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "BI": {
+        "name": "Burundi",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Green",
+            "Black",
+            "White"
+        ]
+    },
+    "BJ": {
+        "name": "Benin",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Gold",
+            "Green"
+        ]
+    },
+    "BL": {
+        "name": "Saint Barthélemy",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "BM": {
+        "name": "Bermuda",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "Navy",
+            "White",
+            "Green",
+            "Black",
+            "Blue",
+            "Brown",
+            "Gold"
+        ]
+    },
+    "BN": {
+        "name": "Brunei Darussalam",
+        "continent": "Asia",
+        "colors": [
+            "Gold",
+            "White",
+            "Black",
+            "Red"
+        ]
+    },
+    "BO": {
+        "name": "Bolivia, Plurinational State of",
+        "continent": "South America",
+        "colors": [
+            "Green",
+            "Yellow",
+            "Red",
+            "Brown",
+            "Black",
+            "Silver",
+            "White",
+            "Blue",
+            "Gold",
+            "Gray",
+            "Orange"
+        ]
+    },
+    "BQ": {
+        "name": "Caribbean Netherlands",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "White",
+            "Red"
+        ]
+    },
+    "BR": {
+        "name": "Brazil",
+        "continent": "South America",
+        "colors": [
+            "Green",
+            "Gold",
+            "Navy",
+            "White"
+        ]
+    },
+    "BS": {
+        "name": "Bahamas",
+        "continent": "North America",
+        "colors": [
+            "Teal",
+            "Gold",
+            "Black"
+        ]
+    },
+    "BT": {
+        "name": "Bhutan",
+        "continent": "Asia",
+        "colors": [
+            "Gold",
+            "Orange",
+            "White",
+            "Black"
+        ]
+    },
+    "BV": {
+        "name": "Bouvet Island",
+        "continent": "Antarctica",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "BW": {
+        "name": "Botswana",
+        "continent": "Africa",
+        "colors": [
+            "Blue",
+            "White",
+            "Black"
+        ]
+    },
+    "BY": {
+        "name": "Belarus",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White",
+            "Green"
+        ]
+    },
+    "BZ": {
+        "name": "Belize",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "Navy",
+            "White",
+            "Brown",
+            "Black",
+            "Green",
+            "Orange",
+            "Dark Green",
+            "Light Blue",
+            "Gold",
+            "Blue",
+            "Silver",
+            "Pink",
+            "Gray",
+            "Dark Red"
+        ]
+    },
+    "CA": {
+        "name": "Canada",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "CC": {
+        "name": "Cocos (Keeling) Islands",
+        "continent": "Oceania",
+        "colors": [
+            "Green",
+            "Gold",
+            "Brown"
+        ]
+    },
+    "CD": {
+        "name": "Congo, the Democratic Republic of the",
+        "continent": "Africa",
+        "colors": [
+            "Blue",
+            "Gold",
+            "Red"
+        ]
+    },
+    "CF": {
+        "name": "Central African Republic",
+        "continent": "Africa",
+        "colors": [
+            "White",
+            "Navy",
+            "Green",
+            "Gold",
+            "Red"
+        ]
+    },
+    "CG": {
+        "name": "Republic of the Congo",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Gold",
+            "Red"
+        ]
+    },
+    "CH": {
+        "name": "Switzerland",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "CI": {
+        "name": "Côte d'Ivoire",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "White",
+            "Orange"
+        ]
+    },
+    "CK": {
+        "name": "Cook Islands",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "White",
+            "Red"
+        ]
+    },
+    "CL": {
+        "name": "Chile",
+        "continent": "South America",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "CM": {
+        "name": "Cameroon",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Red",
+            "Gold"
+        ]
+    },
+    "CN": {
+        "name": "China (People's Republic of China)",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Yellow"
+        ]
+    },
+    "CO": {
+        "name": "Colombia",
+        "continent": "South America",
+        "colors": [
+            "Red",
+            "Navy",
+            "Gold"
+        ]
+    },
+    "CR": {
+        "name": "Costa Rica",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "White",
+            "Red",
+            "Gold",
+            "Black",
+            "Orange",
+            "Brown",
+            "Light Blue",
+            "Blue",
+            "Green",
+            "Dark Green"
+        ]
+    },
+    "CU": {
+        "name": "Cuba",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "White",
+            "Red"
+        ]
+    },
+    "CV": {
+        "name": "Cape Verde",
+        "continent": "Africa",
+        "colors": [
+            "Navy",
+            "White",
+            "Red",
+            "Gold"
+        ]
+    },
+    "CW": {
+        "name": "Curaçao",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "Yellow",
+            "White"
+        ]
+    },
+    "CX": {
+        "name": "Christmas Island",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Green",
+            "Gold",
+            "White"
+        ]
+    },
+    "CY": {
+        "name": "Cyprus",
+        "continent": "Asia",
+        "colors": [
+            "White",
+            "Green",
+            "Brown"
+        ]
+    },
+    "CZ": {
+        "name": "Czech Republic",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "DE": {
+        "name": "Germany",
+        "continent": "Europe",
+        "colors": [
+            "Black",
+            "Red",
+            "Gold"
+        ]
+    },
+    "DJ": {
+        "name": "Djibouti",
+        "continent": "Africa",
+        "colors": [
+            "Light Blue",
+            "Green",
+            "White",
+            "Red"
+        ]
+    },
+    "DK": {
+        "name": "Denmark",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "DM": {
+        "name": "Dominica",
+        "continent": "North America",
+        "colors": [
+            "Green",
+            "Gold",
+            "White",
+            "Black",
+            "Red",
+            "Brown",
+            "Purple"
+        ]
+    },
+    "DO": {
+        "name": "Dominican Republic",
+        "continent": "North America",
+        "colors": [
+            "White",
+            "Navy",
+            "Red",
+            "Brown",
+            "Gold",
+            "Green",
+            "Yellow",
+            "Black"
+        ]
+    },
+    "DZ": {
+        "name": "Algeria",
+        "continent": "Africa",
+        "colors": [
+            "White",
+            "Green",
+            "Red"
+        ]
+    },
+    "EC": {
+        "name": "Ecuador",
+        "continent": "South America",
+        "colors": [
+            "Red",
+            "Navy",
+            "Gold",
+            "Silver",
+            "Black",
+            "Green",
+            "Light Blue",
+            "Dark Red",
+            "Brown",
+            "White",
+            "Teal",
+            "Blue",
+            "Gray",
+            "Pink",
+            "Orange"
+        ]
+    },
+    "EE": {
+        "name": "Estonia",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Black",
+            "Blue"
+        ]
+    },
+    "EG": {
+        "name": "Egypt",
+        "continent": "Africa",
+        "colors": [
+            "Black",
+            "White",
+            "Red",
+            "Gold"
+        ]
+    },
+    "EH": {
+        "name": "Western Sahara",
+        "continent": "Africa",
+        "colors": [
+            "Black",
+            "Green",
+            "White",
+            "Red"
+        ]
+    },
+    "ER": {
+        "name": "Eritrea",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Green",
+            "Blue",
+            "Gold"
+        ]
+    },
+    "ES": {
+        "name": "Spain",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Gold",
+            "Black",
+            "Green",
+            "White",
+            "Blue",
+            "Silver",
+            "Orange",
+            "Pink"
+        ]
+    },
+    "ET": {
+        "name": "Ethiopia",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Gold",
+            "Green",
+            "Blue",
+            "Black"
+        ]
+    },
+    "EU": {
+        "name": "Europe",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "Gold"
+        ]
+    },
+    "FI": {
+        "name": "Finland",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Navy"
+        ]
+    },
+    "FJ": {
+        "name": "Fiji",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red",
+            "Light Blue",
+            "Gold",
+            "Green",
+            "Dark Red"
+        ]
+    },
+    "FK": {
+        "name": "Falkland Islands (Malvinas)",
+        "continent": "South America",
+        "colors": [
+            "Navy",
+            "White",
+            "Red",
+            "Dark Red",
+            "Brown",
+            "Orange",
+            "Gold",
+            "Black",
+            "Blue",
+            "Gray",
+            "Silver",
+            "Yellow",
+            "Green"
+        ]
+    },
+    "FM": {
+        "name": "Micronesia, Federated States of",
+        "continent": "Oceania",
+        "colors": [
+            "Light Blue",
+            "White"
+        ]
+    },
+    "FO": {
+        "name": "Faroe Islands",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Blue",
+            "Red"
+        ]
+    },
+    "FR": {
+        "name": "France",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "GA": {
+        "name": "Gabon",
+        "continent": "Africa",
+        "colors": [
+            "Blue",
+            "Gold",
+            "Green"
+        ]
+    },
+    "GB-ENG": {
+        "name": "England",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "GB-NIR": {
+        "name": "Northern Ireland",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red"
+        ]
+    },
+    "GB-SCT": {
+        "name": "Scotland",
+        "continent": "Europe",
+        "colors": [
+            "Blue",
+            "Black",
+            "White"
+        ]
+    },
+    "GB-WLS": {
+        "name": "Wales",
+        "continent": "Europe",
+        "colors": [
+            "Green",
+            "White",
+            "Red",
+            "Black"
+        ]
+    },
+    "GB": {
+        "name": "United Kingdom",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red"
+        ]
+    },
+    "GD": {
+        "name": "Grenada",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "Green",
+            "Gold"
+        ]
+    },
+    "GE": {
+        "name": "Georgia",
+        "continent": "Asia",
+        "colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "GF": {
+        "name": "French Guiana",
+        "continent": "South America",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "GG": {
+        "name": "Guernsey",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Red",
+            "Gold"
+        ]
+    },
+    "GH": {
+        "name": "Ghana",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Gold",
+            "Red",
+            "Black"
+        ]
+    },
+    "GI": {
+        "name": "Gibraltar",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White",
+            "Black",
+            "Gold"
+        ]
+    },
+    "GL": {
+        "name": "Greenland",
+        "continent": "North America",
+        "colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "GM": {
+        "name": "Gambia",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Navy",
+            "Red",
+            "Black",
+            "White"
+        ]
+    },
+    "GN": {
+        "name": "Guinea",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Gold",
+            "Green"
+        ]
+    },
+    "GP": {
+        "name": "Guadeloupe",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "GQ": {
+        "name": "Equatorial Guinea",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "White",
+            "Green",
+            "Blue",
+            "Black",
+            "Brown",
+            "Gold"
+        ]
+    },
+    "GR": {
+        "name": "Greece",
+        "continent": "Europe",
+        "colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "GS": {
+        "name": "South Georgia and the South Sandwich Islands",
+        "continent": "Antarctica",
+        "colors": [
+            "Navy",
+            "White",
+            "Red",
+            "Brown",
+            "Black",
+            "Gray",
+            "Orange",
+            "Gold",
+            "Green",
+            "Blue",
+            "Yellow",
+            "Light Blue",
+            "Silver",
+            "Purple"
+        ]
+    },
+    "GT": {
+        "name": "Guatemala",
+        "continent": "North America",
+        "colors": [
+            "Blue",
+            "White",
+            "Dark Green",
+            "Green",
+            "Red",
+            "Dark Red",
+            "Silver",
+            "Gray",
+            "Gold",
+            "Brown",
+            "Black"
+        ]
+    },
+    "GU": {
+        "name": "Guam",
+        "continent": "Oceania",
+        "colors": [
+            "Red",
+            "Navy",
+            "Light Blue",
+            "Blue",
+            "Gold",
+            "Brown",
+            "White",
+            "Green",
+            "Black"
+        ]
+    },
+    "GW": {
+        "name": "Guinea-Bissau",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Gold",
+            "Green",
+            "Black"
+        ]
+    },
+    "GY": {
+        "name": "Guyana",
+        "continent": "South America",
+        "colors": [
+            "Green",
+            "White",
+            "Gold",
+            "Black",
+            "Red"
+        ]
+    },
+    "HK": {
+        "name": "Hong Kong",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "HM": {
+        "name": "Heard Island and McDonald Islands",
+        "continent": "Antarctica",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red"
+        ]
+    },
+    "HN": {
+        "name": "Honduras",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "White"
+        ]
+    },
+    "HR": {
+        "name": "Croatia",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "White",
+            "Red",
+            "Blue",
+            "Black",
+            "Gold"
+        ]
+    },
+    "HT": {
+        "name": "Haiti",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "Navy",
+            "White",
+            "Green",
+            "Black",
+            "Gold"
+        ]
+    },
+    "HU": {
+        "name": "Hungary",
+        "continent": "Europe",
+        "colors": [
+            "Green",
+            "White",
+            "Red"
+        ]
+    },
+    "ID": {
+        "name": "Indonesia",
+        "continent": "Asia",
+        "colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "IE": {
+        "name": "Ireland",
+        "continent": "Europe",
+        "colors": [
+            "Green",
+            "White",
+            "Orange"
+        ]
+    },
+    "IL": {
+        "name": "Israel",
+        "continent": "Asia",
+        "colors": [
+            "White",
+            "Blue"
+        ]
+    },
+    "IM": {
+        "name": "Isle of Man",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Gold",
+            "Black",
+            "White"
+        ]
+    },
+    "IN": {
+        "name": "India",
+        "continent": "Asia",
+        "colors": [
+            "Orange",
+            "White",
+            "Green",
+            "Navy"
+        ]
+    },
+    "IO": {
+        "name": "British Indian Ocean Territory",
+        "continent": "Africa",
+        "colors": [
+            "White",
+            "Navy",
+            "Black",
+            "Red",
+            "Brown",
+            "Green",
+            "Silver",
+            "Gold",
+            "Blue"
+        ]
+    },
+    "IQ": {
+        "name": "Iraq",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "White",
+            "Black",
+            "Green"
+        ]
+    },
+    "IR": {
+        "name": "Iran, Islamic Republic of",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "White",
+            "Green"
+        ]
+    },
+    "IS": {
+        "name": "Iceland",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red"
+        ]
+    },
+    "IT": {
+        "name": "Italy",
+        "continent": "Europe",
+        "colors": [
+            "Green",
+            "White",
+            "Red"
+        ]
+    },
+    "JE": {
+        "name": "Jersey",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Black",
+            "Red",
+            "Gold",
+            "Blue"
+        ]
+    },
+    "JM": {
+        "name": "Jamaica",
+        "continent": "North America",
+        "colors": [
+            "Green",
+            "Gray",
+            "Gold"
+        ]
+    },
+    "JO": {
+        "name": "Jordan",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "White",
+            "Black",
+            "Red"
+        ]
+    },
+    "JP": {
+        "name": "Japan",
+        "continent": "Asia",
+        "colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "KE": {
+        "name": "Kenya",
+        "continent": "Africa",
+        "colors": [
+            "White",
+            "Black",
+            "Green",
+            "Red"
+        ]
+    },
+    "KG": {
+        "name": "Kyrgyzstan",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Gold"
+        ]
+    },
+    "KH": {
+        "name": "Cambodia",
+        "continent": "Asia",
+        "colors": [
+            "Navy",
+            "Red",
+            "White",
+            "Black"
+        ]
+    },
+    "KI": {
+        "name": "Kiribati",
+        "continent": "Oceania",
+        "colors": [
+            "Red",
+            "Gold",
+            "Black",
+            "Navy",
+            "White"
+        ]
+    },
+    "KM": {
+        "name": "Comoros",
+        "continent": "Africa",
+        "colors": [
+            "Blue",
+            "Red",
+            "White",
+            "Gold",
+            "Green"
+        ]
+    },
+    "KN": {
+        "name": "Saint Kitts and Nevis",
+        "continent": "North America",
+        "colors": [
+            "Green",
+            "Red",
+            "Black",
+            "Gold",
+            "White"
+        ]
+    },
+    "KP": {
+        "name": "Korea, Democratic People's Republic of",
+        "continent": "Asia",
+        "colors": [
+            "Navy",
+            "White",
+            "Red"
+        ]
+    },
+    "KR": {
+        "name": "Korea, Republic of",
+        "continent": "Asia",
+        "colors": [
+            "White",
+            "Black",
+            "Red",
+            "Navy"
+        ]
+    },
+    "KW": {
+        "name": "Kuwait",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "White",
+            "Red",
+            "Black"
+        ]
+    },
+    "KY": {
+        "name": "Cayman Islands",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red",
+            "Gold",
+            "Green",
+            "Teal",
+            "Dark Green"
+        ]
+    },
+    "KZ": {
+        "name": "Kazakhstan",
+        "continent": "Asia",
+        "colors": [
+            "Teal",
+            "Gold"
+        ]
+    },
+    "LA": {
+        "name": "Laos (Lao People's Democratic Republic)",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Navy",
+            "White"
+        ]
+    },
+    "LB": {
+        "name": "Lebanon",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "White",
+            "Green"
+        ]
+    },
+    "LC": {
+        "name": "Saint Lucia",
+        "continent": "North America",
+        "colors": [
+            "Light Blue",
+            "White",
+            "Black",
+            "Gold"
+        ]
+    },
+    "LI": {
+        "name": "Liechtenstein",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "Red",
+            "Gold",
+            "Black"
+        ]
+    },
+    "LK": {
+        "name": "Sri Lanka",
+        "continent": "Asia",
+        "colors": [
+            "Gold",
+            "Orange",
+            "Teal",
+            "Dark Red",
+            "Black"
+        ]
+    },
+    "LR": {
+        "name": "Liberia",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Black",
+            "White",
+            "Navy"
+        ]
+    },
+    "LS": {
+        "name": "Lesotho",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "White",
+            "Navy",
+            "Black"
+        ]
+    },
+    "LT": {
+        "name": "Lithuania",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Green",
+            "Gold"
+        ]
+    },
+    "LU": {
+        "name": "Luxembourg",
+        "continent": "Europe",
+        "colors": [
+            "Blue",
+            "Red",
+            "White"
+        ]
+    },
+    "LV": {
+        "name": "Latvia",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "LY": {
+        "name": "Libya",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Black",
+            "Red",
+            "White"
+        ]
+    },
+    "MA": {
+        "name": "Morocco",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Green"
+        ]
+    },
+    "MC": {
+        "name": "Monaco",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "MD": {
+        "name": "Moldova, Republic of",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Gold",
+            "Navy",
+            "Black",
+            "Brown",
+            "Green"
+        ]
+    },
+    "ME": {
+        "name": "Montenegro",
+        "continent": "Europe",
+        "colors": [
+            "Gold",
+            "Red",
+            "Brown",
+            "Navy",
+            "Green"
+        ]
+    },
+    "MF": {
+        "name": "Saint Martin",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "MG": {
+        "name": "Madagascar",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Red",
+            "White"
+        ]
+    },
+    "MH": {
+        "name": "Marshall Islands",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "White",
+            "Brown"
+        ]
+    },
+    "MK": {
+        "name": "North Macedonia",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Yellow"
+        ]
+    },
+    "ML": {
+        "name": "Mali",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Gold",
+            "Green"
+        ]
+    },
+    "MM": {
+        "name": "Myanmar",
+        "continent": "Asia",
+        "colors": [
+            "Gold",
+            "Red",
+            "Green",
+            "White"
+        ]
+    },
+    "MN": {
+        "name": "Mongolia",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Blue",
+            "Gold"
+        ]
+    },
+    "MO": {
+        "name": "Macao",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "Gold",
+            "White"
+        ]
+    },
+    "MP": {
+        "name": "Northern Mariana Islands",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Silver",
+            "Green",
+            "Pink",
+            "Red",
+            "White",
+            "Brown",
+            "Gray",
+            "Black",
+            "Gold"
+        ]
+    },
+    "MQ": {
+        "name": "Martinique",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "MR": {
+        "name": "Mauritania",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Green",
+            "Gold"
+        ]
+    },
+    "MS": {
+        "name": "Montserrat",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red",
+            "Teal",
+            "Brown",
+            "Orange",
+            "Gold",
+            "Green",
+            "Dark Red"
+        ]
+    },
+    "MT": {
+        "name": "Malta",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White",
+            "Silver",
+            "Black"
+        ]
+    },
+    "MU": {
+        "name": "Mauritius",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Gold",
+            "Navy",
+            "Red"
+        ]
+    },
+    "MV": {
+        "name": "Maldives",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Green",
+            "White"
+        ]
+    },
+    "MW": {
+        "name": "Malawi",
+        "continent": "Africa",
+        "colors": [
+            "Black",
+            "Red",
+            "Green"
+        ]
+    },
+    "MX": {
+        "name": "Mexico",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "White",
+            "Green",
+            "Gold",
+            "Yellow",
+            "Teal",
+            "Navy",
+            "Orange",
+            "Black",
+            "Brown",
+            "Silver"
+        ]
+    },
+    "MY": {
+        "name": "Malaysia",
+        "continent": "Asia",
+        "colors": [
+            "White",
+            "Black",
+            "Red",
+            "Navy",
+            "Gold"
+        ]
+    },
+    "MZ": {
+        "name": "Mozambique",
+        "continent": "Africa",
+        "colors": [
+            "Black",
+            "White",
+            "Teal",
+            "Gold",
+            "Red"
+        ]
+    },
+    "NA": {
+        "name": "Namibia",
+        "continent": "Africa",
+        "colors": [
+            "Navy",
+            "Green",
+            "White",
+            "Red",
+            "Gold"
+        ]
+    },
+    "NC": {
+        "name": "New Caledonia",
+        "continent": "Oceania",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "NE": {
+        "name": "Niger",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "White",
+            "Orange"
+        ]
+    },
+    "NF": {
+        "name": "Norfolk Island",
+        "continent": "Oceania",
+        "colors": [
+            "Green",
+            "White"
+        ]
+    },
+    "NG": {
+        "name": "Nigeria",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "White"
+        ]
+    },
+    "NI": {
+        "name": "Nicaragua",
+        "continent": "North America",
+        "colors": [
+            "Blue",
+            "White",
+            "Gold",
+            "Teal",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Purple",
+            "Dark Red",
+            "Navy"
+        ]
+    },
+    "NL": {
+        "name": "Netherlands",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "White",
+            "Red"
+        ]
+    },
+    "NO": {
+        "name": "Norway",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "NP": {
+        "name": "Nepal",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Navy",
+            "White"
+        ]
+    },
+    "NR": {
+        "name": "Nauru",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Gold",
+            "White"
+        ]
+    },
+    "NU": {
+        "name": "Niue",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red",
+            "Gold"
+        ]
+    },
+    "NZ": {
+        "name": "New Zealand",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red"
+        ]
+    },
+    "OM": {
+        "name": "Oman",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "White",
+            "Green"
+        ]
+    },
+    "PA": {
+        "name": "Panama",
+        "continent": "North America",
+        "colors": [
+            "White",
+            "Navy",
+            "Red"
+        ]
+    },
+    "PE": {
+        "name": "Peru",
+        "continent": "South America",
+        "colors": [
+            "Red",
+            "White",
+            "Green",
+            "Gold",
+            "Navy",
+            "Brown",
+            "Silver",
+            "Orange",
+            "Black",
+            "Yellow",
+            "Dark Green"
+        ]
+    },
+    "PF": {
+        "name": "French Polynesia",
+        "continent": "Oceania",
+        "colors": [
+            "Red",
+            "White",
+            "Orange",
+            "Navy",
+            "Dark Red"
+        ]
+    },
+    "PG": {
+        "name": "Papua New Guinea",
+        "continent": "Oceania",
+        "colors": [
+            "Black",
+            "Red",
+            "Gold",
+            "White"
+        ]
+    },
+    "PH": {
+        "name": "Philippines",
+        "continent": "Asia",
+        "colors": [
+            "Navy",
+            "Red",
+            "White",
+            "Gold"
+        ]
+    },
+    "PK": {
+        "name": "Pakistan",
+        "continent": "Asia",
+        "colors": [
+            "White",
+            "Dark Green"
+        ]
+    },
+    "PL": {
+        "name": "Poland",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Red"
+        ]
+    },
+    "PM": {
+        "name": "Saint Pierre and Miquelon",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "PN": {
+        "name": "Pitcairn",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red",
+            "Gold",
+            "Green",
+            "Blue",
+            "Silver"
+        ]
+    },
+    "PR": {
+        "name": "Puerto Rico",
+        "continent": "North America",
+        "colors": [
+            "White",
+            "Red",
+            "Blue"
+        ]
+    },
+    "PS": {
+        "name": "Palestine",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "White",
+            "Black",
+            "Red"
+        ]
+    },
+    "PT": {
+        "name": "Portugal",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Black",
+            "White",
+            "Navy"
+        ]
+    },
+    "PW": {
+        "name": "Palau",
+        "continent": "Oceania",
+        "colors": [
+            "Blue",
+            "Yellow"
+        ]
+    },
+    "PY": {
+        "name": "Paraguay",
+        "continent": "South America",
+        "colors": [
+            "Navy",
+            "White",
+            "Red",
+            "Black",
+            "Green",
+            "Gold"
+        ]
+    },
+    "QA": {
+        "name": "Qatar",
+        "continent": "Asia",
+        "colors": [
+            "Dark Red",
+            "White"
+        ]
+    },
+    "RE": {
+        "name": "Réunion",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "RO": {
+        "name": "Romania",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "Gold",
+            "Red"
+        ]
+    },
+    "RS": {
+        "name": "Serbia",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Navy",
+            "White",
+            "Gold",
+            "Black"
+        ]
+    },
+    "RU": {
+        "name": "Russian Federation",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Red",
+            "Navy"
+        ]
+    },
+    "RW": {
+        "name": "Rwanda",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Gold",
+            "Blue"
+        ]
+    },
+    "SA": {
+        "name": "Saudi Arabia",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "White"
+        ]
+    },
+    "SB": {
+        "name": "Solomon Islands",
+        "continent": "Oceania",
+        "colors": [
+            "Blue",
+            "Green",
+            "Black",
+            "Gold",
+            "White"
+        ]
+    },
+    "SC": {
+        "name": "Seychelles",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Gold",
+            "Navy",
+            "White",
+            "Green"
+        ]
+    },
+    "SD": {
+        "name": "Sudan",
+        "continent": "Africa",
+        "colors": [
+            "Black",
+            "White",
+            "Red",
+            "Green"
+        ]
+    },
+    "SE": {
+        "name": "Sweden",
+        "continent": "Europe",
+        "colors": [
+            "Navy",
+            "Gold"
+        ]
+    },
+    "SG": {
+        "name": "Singapore",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "SH": {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "continent": "Africa",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red"
+        ]
+    },
+    "SI": {
+        "name": "Slovenia",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Blue",
+            "White",
+            "Gold"
+        ]
+    },
+    "SJ": {
+        "name": "Svalbard and Jan Mayen Islands",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "SK": {
+        "name": "Slovakia",
+        "continent": "Europe",
+        "colors": [
+            "Red",
+            "Navy",
+            "White"
+        ]
+    },
+    "SL": {
+        "name": "Sierra Leone",
+        "continent": "Africa",
+        "colors": [
+            "Blue",
+            "White",
+            "Green"
+        ]
+    },
+    "SM": {
+        "name": "San Marino",
+        "continent": "Europe",
+        "colors": [
+            "Blue",
+            "White",
+            "Black",
+            "Gold",
+            "Light Blue",
+            "Green",
+            "Silver",
+            "Brown"
+        ]
+    },
+    "SN": {
+        "name": "Senegal",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Yellow",
+            "Red"
+        ]
+    },
+    "SO": {
+        "name": "Somalia",
+        "continent": "Africa",
+        "colors": [
+            "Blue",
+            "White"
+        ]
+    },
+    "SR": {
+        "name": "Suriname",
+        "continent": "South America",
+        "colors": [
+            "Green",
+            "White",
+            "Red",
+            "Gold"
+        ]
+    },
+    "SS": {
+        "name": "South Sudan",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "White",
+            "Black",
+            "Red",
+            "Blue",
+            "Gold"
+        ]
+    },
+    "ST": {
+        "name": "Sao Tome and Principe",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Gold",
+            "Red",
+            "Black"
+        ]
+    },
+    "SV": {
+        "name": "El Salvador",
+        "continent": "North America",
+        "colors": [
+            "White",
+            "Navy",
+            "Gold",
+            "Green",
+            "Black",
+            "Red",
+            "Blue",
+            "Orange",
+            "Yellow",
+            "Teal"
+        ]
+    },
+    "SX": {
+        "name": "Sint Maarten (Dutch part)",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "White",
+            "Navy",
+            "Yellow",
+            "Gold",
+            "Black",
+            "Blue",
+            "Silver",
+            "Green"
+        ]
+    },
+    "SY": {
+        "name": "Syrian Arab Republic",
+        "continent": "Asia",
+        "colors": [
+            "Black",
+            "White",
+            "Green",
+            "Red"
+        ]
+    },
+    "SZ": {
+        "name": "Kingdom of Eswatini",
+        "continent": "Africa",
+        "colors": [
+            "Blue",
+            "Gold",
+            "Red",
+            "White",
+            "Black",
+            "Dark Red"
+        ]
+    },
+    "TC": {
+        "name": "Turks and Caicos Islands",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "White",
+            "Red",
+            "Gold",
+            "Black",
+            "Orange",
+            "Pink",
+            "Brown",
+            "Green"
+        ]
+    },
+    "TD": {
+        "name": "Chad",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "Gold",
+            "Navy"
+        ]
+    },
+    "TF": {
+        "name": "French Southern Territories",
+        "continent": "Antarctica",
+        "colors": [
+            "Navy",
+            "White",
+            "Red"
+        ]
+    },
+    "TG": {
+        "name": "Togo",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Gold",
+            "Red",
+            "White"
+        ]
+    },
+    "TH": {
+        "name": "Thailand",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "TJ": {
+        "name": "Tajikistan",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "White",
+            "Red",
+            "Gold"
+        ]
+    },
+    "TK": {
+        "name": "Tokelau",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Gold",
+            "White"
+        ]
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Gold",
+            "Black",
+            "White"
+        ]
+    },
+    "TM": {
+        "name": "Turkmenistan",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "White",
+            "Red",
+            "Gray",
+            "Gold"
+        ]
+    },
+    "TN": {
+        "name": "Tunisia",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "TO": {
+        "name": "Tonga",
+        "continent": "Oceania",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "TR": {
+        "name": "Republic of Türkiye",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "White"
+        ]
+    },
+    "TT": {
+        "name": "Trinidad and Tobago",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "White",
+            "Black"
+        ]
+    },
+    "TV": {
+        "name": "Tuvalu",
+        "continent": "Oceania",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red",
+            "Blue",
+            "Gold"
+        ]
+    },
+    "TW": {
+        "name": "Taiwan (Republic of China)",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Navy",
+            "White"
+        ]
+    },
+    "TZ": {
+        "name": "Tanzania, United Republic of",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Blue",
+            "Gold",
+            "Black"
+        ]
+    },
+    "UA": {
+        "name": "Ukraine",
+        "continent": "Europe",
+        "colors": [
+            "Blue",
+            "Gold"
+        ]
+    },
+    "UG": {
+        "name": "Uganda",
+        "continent": "Africa",
+        "colors": [
+            "Black",
+            "Gold",
+            "Red",
+            "White",
+            "Silver"
+        ]
+    },
+    "UM": {
+        "name": "US Minor Outlying Islands",
+        "continent": "Oceania",
+        "colors": [
+            "Red",
+            "Black",
+            "White",
+            "Navy"
+        ]
+    },
+    "US": {
+        "name": "United States",
+        "continent": "North America",
+        "colors": [
+            "Red",
+            "Black",
+            "White",
+            "Navy"
+        ]
+    },
+    "UY": {
+        "name": "Uruguay",
+        "continent": "South America",
+        "colors": [
+            "White",
+            "Navy",
+            "Gold",
+            "Brown"
+        ]
+    },
+    "UZ": {
+        "name": "Uzbekistan",
+        "continent": "Asia",
+        "colors": [
+            "Green",
+            "Teal",
+            "Red",
+            "White"
+        ]
+    },
+    "VA": {
+        "name": "Holy See (Vatican City State)",
+        "continent": "Europe",
+        "colors": [
+            "White",
+            "Gold",
+            "Black",
+            "Silver",
+            "Red"
+        ]
+    },
+    "VC": {
+        "name": "Saint Vincent and the Grenadines",
+        "continent": "North America",
+        "colors": [
+            "Gold",
+            "Green",
+            "Navy"
+        ]
+    },
+    "VE": {
+        "name": "Venezuela, Bolivarian Republic of",
+        "continent": "South America",
+        "colors": [
+            "Red",
+            "Navy",
+            "Gold",
+            "White"
+        ]
+    },
+    "VG": {
+        "name": "Virgin Islands, British",
+        "continent": "North America",
+        "colors": [
+            "Navy",
+            "Black",
+            "White",
+            "Red",
+            "Green",
+            "Gold",
+            "Yellow",
+            "Brown"
+        ]
+    },
+    "VI": {
+        "name": "Virgin Islands, U.S.",
+        "continent": "North America",
+        "colors": [
+            "White",
+            "Green",
+            "Black",
+            "Gold",
+            "Blue",
+            "Dark Red",
+            "Navy"
+        ]
+    },
+    "VN": {
+        "name": "Vietnam",
+        "continent": "Asia",
+        "colors": [
+            "Red",
+            "Yellow"
+        ]
+    },
+    "VU": {
+        "name": "Vanuatu",
+        "continent": "Oceania",
+        "colors": [
+            "Red",
+            "Green",
+            "Black",
+            "Gold"
+        ]
+    },
+    "WF": {
+        "name": "Wallis and Futuna Islands",
+        "continent": "Oceania",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "WS": {
+        "name": "Samoa",
+        "continent": "Oceania",
+        "colors": [
+            "Red",
+            "Navy",
+            "White"
+        ]
+    },
+    "XK": {
+        "name": "Kosovo",
+        "continent": "Europe",
+        "colors": [
+            "Blue",
+            "Gold",
+            "White"
+        ]
+    },
+    "YE": {
+        "name": "Yemen",
+        "continent": "Asia",
+        "colors": [
+            "Black",
+            "White",
+            "Red"
+        ]
+    },
+    "YT": {
+        "name": "Mayotte",
+        "continent": "Africa",
+        "colors": [
+            "Red",
+            "White",
+            "Navy"
+        ]
+    },
+    "ZA": {
+        "name": "South Africa",
+        "continent": "Africa",
+        "colors": [
+            "Navy",
+            "Red",
+            "Black",
+            "White",
+            "Gold",
+            "Green"
+        ]
+    },
+    "ZM": {
+        "name": "Zambia",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Red",
+            "Orange",
+            "Black"
+        ]
+    },
+    "ZW": {
+        "name": "Zimbabwe",
+        "continent": "Africa",
+        "colors": [
+            "Green",
+            "Gold",
+            "Red",
+            "Black",
+            "White"
+        ]
+    }
+}
