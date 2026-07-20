@@ -29,14 +29,14 @@ export const multisearch = (
 
 const matchAnyField = (country: CountryData, query: string): boolean => {
   const inverted = query.startsWith("!");
-  const term = inverted ? query.substring(1) : query;
+  const term = inverted
+    ? query.substring(1).toLowerCase()
+    : query.toLowerCase();
   const res =
-    country.name.toLowerCase().startsWith(term.toLowerCase()) ||
-    country.continent.toLowerCase() === term.toLowerCase() ||
-    country.colors.some(
-      (color) => color.toLowerCase() === term.toLowerCase(),
-    ) ||
-    country.tags.some((tag) => tag.toLowerCase() === term.toLowerCase());
+    country.name.toLowerCase().startsWith(term) ||
+    country.continent.toLowerCase() === term ||
+    country.colors.some((color) => color.toLowerCase() === term) ||
+    country.tags.some((tag) => tag.toLowerCase() === term);
   return inverted ? !res : res;
 };
 
