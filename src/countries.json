@@ -9,7 +9,8 @@
             "Brown",
             "White",
             "Blue"
-        ]
+        ],
+        "tags": []
     },
     "AE": {
         "name": "United Arab Emirates",
@@ -19,7 +20,8 @@
             "White",
             "Black",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "AF": {
         "name": "Afghanistan",
@@ -29,7 +31,8 @@
             "Black",
             "Green",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "AG": {
         "name": "Antigua and Barbuda",
@@ -40,7 +43,8 @@
             "Gold",
             "Blue",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "AI": {
         "name": "Anguilla",
@@ -53,7 +57,8 @@
             "Yellow",
             "Light Blue",
             "Orange"
-        ]
+        ],
+        "tags": []
     },
     "AL": {
         "name": "Albania",
@@ -61,7 +66,8 @@
         "colors": [
             "Red",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "AM": {
         "name": "Armenia",
@@ -70,7 +76,8 @@
             "Gold",
             "Navy",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "AO": {
         "name": "Angola",
@@ -79,7 +86,8 @@
             "Black",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "AQ": {
         "name": "Antarctica",
@@ -87,7 +95,8 @@
         "colors": [
             "Navy",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "AR": {
         "name": "Argentina",
@@ -97,7 +106,8 @@
             "White",
             "Gold",
             "Brown"
-        ]
+        ],
+        "tags": []
     },
     "AS": {
         "name": "American Samoa",
@@ -110,7 +120,8 @@
             "Gold",
             "Brown",
             "Silver"
-        ]
+        ],
+        "tags": []
     },
     "AT": {
         "name": "Austria",
@@ -118,7 +129,8 @@
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "AU": {
         "name": "Australia",
@@ -128,7 +140,8 @@
             "Black",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "AW": {
         "name": "Aruba",
@@ -138,16 +151,18 @@
             "Gold",
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "AX": {
-        "name": "Åland Islands",
+        "name": "\u00c5land Islands",
         "continent": "Europe",
         "colors": [
             "Navy",
             "Gold",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "AZ": {
         "name": "Azerbaijan",
@@ -157,7 +172,8 @@
             "Red",
             "Teal",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "BA": {
         "name": "Bosnia and Herzegovina",
@@ -166,7 +182,8 @@
             "Navy",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "BB": {
         "name": "Barbados",
@@ -175,7 +192,8 @@
             "Navy",
             "Gold",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "BD": {
         "name": "Bangladesh",
@@ -183,7 +201,8 @@
         "colors": [
             "Green",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "BE": {
         "name": "Belgium",
@@ -192,7 +211,8 @@
             "Red",
             "Gold",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "BF": {
         "name": "Burkina Faso",
@@ -201,7 +221,8 @@
             "Green",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "BG": {
         "name": "Bulgaria",
@@ -210,7 +231,8 @@
             "White",
             "Green",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "BH": {
         "name": "Bahrain",
@@ -218,7 +240,8 @@
         "colors": [
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "BI": {
         "name": "Burundi",
@@ -228,7 +251,8 @@
             "Green",
             "Black",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "BJ": {
         "name": "Benin",
@@ -237,16 +261,18 @@
             "Red",
             "Gold",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "BL": {
-        "name": "Saint Barthélemy",
+        "name": "Saint Barth\u00e9lemy",
         "continent": "North America",
         "colors": [
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "BM": {
         "name": "Bermuda",
@@ -260,7 +286,8 @@
             "Blue",
             "Brown",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "BN": {
         "name": "Brunei Darussalam",
@@ -270,7 +297,8 @@
             "White",
             "Black",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "BO": {
         "name": "Bolivia, Plurinational State of",
@@ -287,7 +315,8 @@
             "Gold",
             "Gray",
             "Orange"
-        ]
+        ],
+        "tags": []
     },
     "BQ": {
         "name": "Caribbean Netherlands",
@@ -296,7 +325,8 @@
             "Navy",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "BR": {
         "name": "Brazil",
@@ -306,7 +336,8 @@
             "Gold",
             "Navy",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "BS": {
         "name": "Bahamas",
@@ -315,7 +346,8 @@
             "Teal",
             "Gold",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "BT": {
         "name": "Bhutan",
@@ -325,7 +357,8 @@
             "Orange",
             "White",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "BV": {
         "name": "Bouvet Island",
@@ -334,7 +367,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "BW": {
         "name": "Botswana",
@@ -343,7 +377,8 @@
             "Blue",
             "White",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "BY": {
         "name": "Belarus",
@@ -352,7 +387,8 @@
             "Red",
             "White",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "BZ": {
         "name": "Belize",
@@ -373,7 +409,8 @@
             "Pink",
             "Gray",
             "Dark Red"
-        ]
+        ],
+        "tags": []
     },
     "CA": {
         "name": "Canada",
@@ -381,7 +418,8 @@
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "CC": {
         "name": "Cocos (Keeling) Islands",
@@ -390,7 +428,8 @@
             "Green",
             "Gold",
             "Brown"
-        ]
+        ],
+        "tags": []
     },
     "CD": {
         "name": "Congo, the Democratic Republic of the",
@@ -399,7 +438,8 @@
             "Blue",
             "Gold",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "CF": {
         "name": "Central African Republic",
@@ -410,7 +450,8 @@
             "Green",
             "Gold",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "CG": {
         "name": "Republic of the Congo",
@@ -419,7 +460,8 @@
             "Green",
             "Gold",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "CH": {
         "name": "Switzerland",
@@ -427,16 +469,18 @@
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "CI": {
-        "name": "Côte d'Ivoire",
+        "name": "C\u00f4te d'Ivoire",
         "continent": "Africa",
         "colors": [
             "Green",
             "White",
             "Orange"
-        ]
+        ],
+        "tags": []
     },
     "CK": {
         "name": "Cook Islands",
@@ -445,7 +489,8 @@
             "Navy",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "CL": {
         "name": "Chile",
@@ -454,7 +499,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "CM": {
         "name": "Cameroon",
@@ -463,7 +509,8 @@
             "Green",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "CN": {
         "name": "China (People's Republic of China)",
@@ -471,7 +518,8 @@
         "colors": [
             "Red",
             "Yellow"
-        ]
+        ],
+        "tags": []
     },
     "CO": {
         "name": "Colombia",
@@ -480,7 +528,8 @@
             "Red",
             "Navy",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "CR": {
         "name": "Costa Rica",
@@ -497,7 +546,8 @@
             "Blue",
             "Green",
             "Dark Green"
-        ]
+        ],
+        "tags": []
     },
     "CU": {
         "name": "Cuba",
@@ -506,7 +556,8 @@
             "Navy",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "CV": {
         "name": "Cape Verde",
@@ -516,16 +567,18 @@
             "White",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "CW": {
-        "name": "Curaçao",
+        "name": "Cura\u00e7ao",
         "continent": "North America",
         "colors": [
             "Navy",
             "Yellow",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "CX": {
         "name": "Christmas Island",
@@ -535,7 +588,8 @@
             "Green",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "CY": {
         "name": "Cyprus",
@@ -544,7 +598,8 @@
             "White",
             "Green",
             "Brown"
-        ]
+        ],
+        "tags": []
     },
     "CZ": {
         "name": "Czech Republic",
@@ -553,7 +608,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "DE": {
         "name": "Germany",
@@ -562,7 +618,8 @@
             "Black",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "DJ": {
         "name": "Djibouti",
@@ -572,7 +629,8 @@
             "Green",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "DK": {
         "name": "Denmark",
@@ -580,7 +638,8 @@
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "DM": {
         "name": "Dominica",
@@ -593,7 +652,8 @@
             "Red",
             "Brown",
             "Purple"
-        ]
+        ],
+        "tags": []
     },
     "DO": {
         "name": "Dominican Republic",
@@ -607,7 +667,8 @@
             "Green",
             "Yellow",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "DZ": {
         "name": "Algeria",
@@ -616,7 +677,8 @@
             "White",
             "Green",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "EC": {
         "name": "Ecuador",
@@ -637,7 +699,8 @@
             "Gray",
             "Pink",
             "Orange"
-        ]
+        ],
+        "tags": []
     },
     "EE": {
         "name": "Estonia",
@@ -646,7 +709,8 @@
             "White",
             "Black",
             "Blue"
-        ]
+        ],
+        "tags": []
     },
     "EG": {
         "name": "Egypt",
@@ -656,7 +720,8 @@
             "White",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "EH": {
         "name": "Western Sahara",
@@ -666,7 +731,8 @@
             "Green",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "ER": {
         "name": "Eritrea",
@@ -676,7 +742,8 @@
             "Green",
             "Blue",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "ES": {
         "name": "Spain",
@@ -691,7 +758,8 @@
             "Silver",
             "Orange",
             "Pink"
-        ]
+        ],
+        "tags": []
     },
     "ET": {
         "name": "Ethiopia",
@@ -702,7 +770,8 @@
             "Green",
             "Blue",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "EU": {
         "name": "Europe",
@@ -710,7 +779,8 @@
         "colors": [
             "Navy",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "FI": {
         "name": "Finland",
@@ -718,7 +788,8 @@
         "colors": [
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "FJ": {
         "name": "Fiji",
@@ -732,7 +803,8 @@
             "Gold",
             "Green",
             "Dark Red"
-        ]
+        ],
+        "tags": []
     },
     "FK": {
         "name": "Falkland Islands (Malvinas)",
@@ -751,7 +823,8 @@
             "Silver",
             "Yellow",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "FM": {
         "name": "Micronesia, Federated States of",
@@ -759,7 +832,8 @@
         "colors": [
             "Light Blue",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "FO": {
         "name": "Faroe Islands",
@@ -768,7 +842,8 @@
             "White",
             "Blue",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "FR": {
         "name": "France",
@@ -777,7 +852,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "GA": {
         "name": "Gabon",
@@ -786,7 +862,8 @@
             "Blue",
             "Gold",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "GB-ENG": {
         "name": "England",
@@ -794,7 +871,8 @@
         "colors": [
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "GB-NIR": {
         "name": "Northern Ireland",
@@ -804,7 +882,8 @@
             "Black",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "GB-SCT": {
         "name": "Scotland",
@@ -813,7 +892,8 @@
             "Blue",
             "Black",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "GB-WLS": {
         "name": "Wales",
@@ -823,7 +903,8 @@
             "White",
             "Red",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "GB": {
         "name": "United Kingdom",
@@ -833,7 +914,8 @@
             "Black",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "GD": {
         "name": "Grenada",
@@ -842,7 +924,8 @@
             "Red",
             "Green",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "GE": {
         "name": "Georgia",
@@ -850,7 +933,8 @@
         "colors": [
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "GF": {
         "name": "French Guiana",
@@ -859,7 +943,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "GG": {
         "name": "Guernsey",
@@ -868,7 +953,8 @@
             "White",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "GH": {
         "name": "Ghana",
@@ -878,7 +964,8 @@
             "Gold",
             "Red",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "GI": {
         "name": "Gibraltar",
@@ -888,7 +975,8 @@
             "White",
             "Black",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "GL": {
         "name": "Greenland",
@@ -896,7 +984,8 @@
         "colors": [
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "GM": {
         "name": "Gambia",
@@ -907,7 +996,8 @@
             "Red",
             "Black",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "GN": {
         "name": "Guinea",
@@ -916,7 +1006,8 @@
             "Red",
             "Gold",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "GP": {
         "name": "Guadeloupe",
@@ -925,7 +1016,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "GQ": {
         "name": "Equatorial Guinea",
@@ -938,7 +1030,8 @@
             "Black",
             "Brown",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "GR": {
         "name": "Greece",
@@ -946,7 +1039,8 @@
         "colors": [
             "Blue",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "GS": {
         "name": "South Georgia and the South Sandwich Islands",
@@ -966,7 +1060,8 @@
             "Light Blue",
             "Silver",
             "Purple"
-        ]
+        ],
+        "tags": []
     },
     "GT": {
         "name": "Guatemala",
@@ -983,7 +1078,8 @@
             "Gold",
             "Brown",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "GU": {
         "name": "Guam",
@@ -998,7 +1094,8 @@
             "White",
             "Green",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "GW": {
         "name": "Guinea-Bissau",
@@ -1008,7 +1105,8 @@
             "Gold",
             "Green",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "GY": {
         "name": "Guyana",
@@ -1019,7 +1117,8 @@
             "Gold",
             "Black",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "HK": {
         "name": "Hong Kong",
@@ -1027,7 +1126,8 @@
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "HM": {
         "name": "Heard Island and McDonald Islands",
@@ -1037,7 +1137,8 @@
             "Black",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "HN": {
         "name": "Honduras",
@@ -1045,7 +1146,8 @@
         "colors": [
             "Navy",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "HR": {
         "name": "Croatia",
@@ -1057,7 +1159,8 @@
             "Blue",
             "Black",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "HT": {
         "name": "Haiti",
@@ -1069,7 +1172,8 @@
             "Green",
             "Black",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "HU": {
         "name": "Hungary",
@@ -1078,7 +1182,8 @@
             "Green",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "ID": {
         "name": "Indonesia",
@@ -1086,7 +1191,8 @@
         "colors": [
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "IE": {
         "name": "Ireland",
@@ -1095,7 +1201,8 @@
             "Green",
             "White",
             "Orange"
-        ]
+        ],
+        "tags": []
     },
     "IL": {
         "name": "Israel",
@@ -1103,7 +1210,8 @@
         "colors": [
             "White",
             "Blue"
-        ]
+        ],
+        "tags": []
     },
     "IM": {
         "name": "Isle of Man",
@@ -1113,7 +1221,8 @@
             "Gold",
             "Black",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "IN": {
         "name": "India",
@@ -1123,7 +1232,8 @@
             "White",
             "Green",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "IO": {
         "name": "British Indian Ocean Territory",
@@ -1138,7 +1248,8 @@
             "Silver",
             "Gold",
             "Blue"
-        ]
+        ],
+        "tags": []
     },
     "IQ": {
         "name": "Iraq",
@@ -1148,7 +1259,8 @@
             "White",
             "Black",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "IR": {
         "name": "Iran, Islamic Republic of",
@@ -1157,7 +1269,8 @@
             "Red",
             "White",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "IS": {
         "name": "Iceland",
@@ -1167,7 +1280,8 @@
             "Black",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "IT": {
         "name": "Italy",
@@ -1176,7 +1290,8 @@
             "Green",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "JE": {
         "name": "Jersey",
@@ -1187,7 +1302,8 @@
             "Red",
             "Gold",
             "Blue"
-        ]
+        ],
+        "tags": []
     },
     "JM": {
         "name": "Jamaica",
@@ -1196,7 +1312,8 @@
             "Green",
             "Gray",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "JO": {
         "name": "Jordan",
@@ -1206,7 +1323,8 @@
             "White",
             "Black",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "JP": {
         "name": "Japan",
@@ -1214,7 +1332,8 @@
         "colors": [
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "KE": {
         "name": "Kenya",
@@ -1224,7 +1343,8 @@
             "Black",
             "Green",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "KG": {
         "name": "Kyrgyzstan",
@@ -1232,7 +1352,8 @@
         "colors": [
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "KH": {
         "name": "Cambodia",
@@ -1242,7 +1363,8 @@
             "Red",
             "White",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "KI": {
         "name": "Kiribati",
@@ -1253,7 +1375,8 @@
             "Black",
             "Navy",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "KM": {
         "name": "Comoros",
@@ -1264,7 +1387,8 @@
             "White",
             "Gold",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "KN": {
         "name": "Saint Kitts and Nevis",
@@ -1275,7 +1399,8 @@
             "Black",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "KP": {
         "name": "Korea, Democratic People's Republic of",
@@ -1284,7 +1409,8 @@
             "Navy",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "KR": {
         "name": "Korea, Republic of",
@@ -1294,7 +1420,8 @@
             "Black",
             "Red",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "KW": {
         "name": "Kuwait",
@@ -1304,7 +1431,8 @@
             "White",
             "Red",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "KY": {
         "name": "Cayman Islands",
@@ -1318,7 +1446,8 @@
             "Green",
             "Teal",
             "Dark Green"
-        ]
+        ],
+        "tags": []
     },
     "KZ": {
         "name": "Kazakhstan",
@@ -1326,7 +1455,8 @@
         "colors": [
             "Teal",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "LA": {
         "name": "Laos (Lao People's Democratic Republic)",
@@ -1335,7 +1465,8 @@
             "Red",
             "Navy",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "LB": {
         "name": "Lebanon",
@@ -1344,7 +1475,8 @@
             "Red",
             "White",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "LC": {
         "name": "Saint Lucia",
@@ -1354,7 +1486,8 @@
             "White",
             "Black",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "LI": {
         "name": "Liechtenstein",
@@ -1364,7 +1497,8 @@
             "Red",
             "Gold",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "LK": {
         "name": "Sri Lanka",
@@ -1375,7 +1509,8 @@
             "Teal",
             "Dark Red",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "LR": {
         "name": "Liberia",
@@ -1385,7 +1520,8 @@
             "Black",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "LS": {
         "name": "Lesotho",
@@ -1395,7 +1531,8 @@
             "White",
             "Navy",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "LT": {
         "name": "Lithuania",
@@ -1404,7 +1541,8 @@
             "Red",
             "Green",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "LU": {
         "name": "Luxembourg",
@@ -1413,7 +1551,8 @@
             "Blue",
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "LV": {
         "name": "Latvia",
@@ -1421,7 +1560,8 @@
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "LY": {
         "name": "Libya",
@@ -1431,7 +1571,8 @@
             "Black",
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "MA": {
         "name": "Morocco",
@@ -1439,7 +1580,8 @@
         "colors": [
             "Red",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "MC": {
         "name": "Monaco",
@@ -1447,7 +1589,8 @@
         "colors": [
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "MD": {
         "name": "Moldova, Republic of",
@@ -1459,7 +1602,8 @@
             "Black",
             "Brown",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "ME": {
         "name": "Montenegro",
@@ -1470,7 +1614,8 @@
             "Brown",
             "Navy",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "MF": {
         "name": "Saint Martin",
@@ -1479,7 +1624,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "MG": {
         "name": "Madagascar",
@@ -1488,7 +1634,8 @@
             "Green",
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "MH": {
         "name": "Marshall Islands",
@@ -1497,7 +1644,8 @@
             "Navy",
             "White",
             "Brown"
-        ]
+        ],
+        "tags": []
     },
     "MK": {
         "name": "North Macedonia",
@@ -1505,7 +1653,8 @@
         "colors": [
             "Red",
             "Yellow"
-        ]
+        ],
+        "tags": []
     },
     "ML": {
         "name": "Mali",
@@ -1514,7 +1663,8 @@
             "Red",
             "Gold",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "MM": {
         "name": "Myanmar",
@@ -1524,7 +1674,8 @@
             "Red",
             "Green",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "MN": {
         "name": "Mongolia",
@@ -1533,7 +1684,8 @@
             "Red",
             "Blue",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "MO": {
         "name": "Macao",
@@ -1542,7 +1694,8 @@
             "Green",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "MP": {
         "name": "Northern Mariana Islands",
@@ -1558,7 +1711,8 @@
             "Gray",
             "Black",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "MQ": {
         "name": "Martinique",
@@ -1567,7 +1721,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "MR": {
         "name": "Mauritania",
@@ -1576,7 +1731,8 @@
             "Red",
             "Green",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "MS": {
         "name": "Montserrat",
@@ -1592,7 +1748,8 @@
             "Gold",
             "Green",
             "Dark Red"
-        ]
+        ],
+        "tags": []
     },
     "MT": {
         "name": "Malta",
@@ -1602,7 +1759,8 @@
             "White",
             "Silver",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "MU": {
         "name": "Mauritius",
@@ -1612,7 +1770,8 @@
             "Gold",
             "Navy",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "MV": {
         "name": "Maldives",
@@ -1621,7 +1780,8 @@
             "Red",
             "Green",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "MW": {
         "name": "Malawi",
@@ -1630,7 +1790,8 @@
             "Black",
             "Red",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "MX": {
         "name": "Mexico",
@@ -1647,7 +1808,8 @@
             "Black",
             "Brown",
             "Silver"
-        ]
+        ],
+        "tags": []
     },
     "MY": {
         "name": "Malaysia",
@@ -1658,7 +1820,8 @@
             "Red",
             "Navy",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "MZ": {
         "name": "Mozambique",
@@ -1669,7 +1832,8 @@
             "Teal",
             "Gold",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "NA": {
         "name": "Namibia",
@@ -1680,7 +1844,8 @@
             "White",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "NC": {
         "name": "New Caledonia",
@@ -1689,7 +1854,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "NE": {
         "name": "Niger",
@@ -1698,7 +1864,8 @@
             "Green",
             "White",
             "Orange"
-        ]
+        ],
+        "tags": []
     },
     "NF": {
         "name": "Norfolk Island",
@@ -1706,7 +1873,8 @@
         "colors": [
             "Green",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "NG": {
         "name": "Nigeria",
@@ -1714,7 +1882,8 @@
         "colors": [
             "Green",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "NI": {
         "name": "Nicaragua",
@@ -1731,7 +1900,8 @@
             "Purple",
             "Dark Red",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "NL": {
         "name": "Netherlands",
@@ -1740,7 +1910,8 @@
             "Navy",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "NO": {
         "name": "Norway",
@@ -1749,7 +1920,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "NP": {
         "name": "Nepal",
@@ -1758,7 +1930,8 @@
             "Red",
             "Navy",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "NR": {
         "name": "Nauru",
@@ -1767,7 +1940,8 @@
             "Navy",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "NU": {
         "name": "Niue",
@@ -1778,7 +1952,8 @@
             "White",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "NZ": {
         "name": "New Zealand",
@@ -1788,7 +1963,8 @@
             "Black",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "OM": {
         "name": "Oman",
@@ -1797,7 +1973,8 @@
             "Red",
             "White",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "PA": {
         "name": "Panama",
@@ -1806,7 +1983,8 @@
             "White",
             "Navy",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "PE": {
         "name": "Peru",
@@ -1823,7 +2001,8 @@
             "Black",
             "Yellow",
             "Dark Green"
-        ]
+        ],
+        "tags": []
     },
     "PF": {
         "name": "French Polynesia",
@@ -1834,7 +2013,8 @@
             "Orange",
             "Navy",
             "Dark Red"
-        ]
+        ],
+        "tags": []
     },
     "PG": {
         "name": "Papua New Guinea",
@@ -1844,7 +2024,8 @@
             "Red",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "PH": {
         "name": "Philippines",
@@ -1854,7 +2035,8 @@
             "Red",
             "White",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "PK": {
         "name": "Pakistan",
@@ -1862,7 +2044,8 @@
         "colors": [
             "White",
             "Dark Green"
-        ]
+        ],
+        "tags": []
     },
     "PL": {
         "name": "Poland",
@@ -1870,7 +2053,8 @@
         "colors": [
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "PM": {
         "name": "Saint Pierre and Miquelon",
@@ -1879,7 +2063,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "PN": {
         "name": "Pitcairn",
@@ -1893,7 +2078,8 @@
             "Green",
             "Blue",
             "Silver"
-        ]
+        ],
+        "tags": []
     },
     "PR": {
         "name": "Puerto Rico",
@@ -1902,7 +2088,8 @@
             "White",
             "Red",
             "Blue"
-        ]
+        ],
+        "tags": []
     },
     "PS": {
         "name": "Palestine",
@@ -1912,7 +2099,8 @@
             "White",
             "Black",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "PT": {
         "name": "Portugal",
@@ -1924,7 +2112,8 @@
             "Black",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "PW": {
         "name": "Palau",
@@ -1932,7 +2121,8 @@
         "colors": [
             "Blue",
             "Yellow"
-        ]
+        ],
+        "tags": []
     },
     "PY": {
         "name": "Paraguay",
@@ -1944,7 +2134,8 @@
             "Black",
             "Green",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "QA": {
         "name": "Qatar",
@@ -1952,16 +2143,18 @@
         "colors": [
             "Dark Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "RE": {
-        "name": "Réunion",
+        "name": "R\u00e9union",
         "continent": "Africa",
         "colors": [
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "RO": {
         "name": "Romania",
@@ -1970,7 +2163,8 @@
             "Navy",
             "Gold",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "RS": {
         "name": "Serbia",
@@ -1981,7 +2175,8 @@
             "White",
             "Gold",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "RU": {
         "name": "Russian Federation",
@@ -1990,7 +2185,8 @@
             "White",
             "Red",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "RW": {
         "name": "Rwanda",
@@ -1999,7 +2195,8 @@
             "Green",
             "Gold",
             "Blue"
-        ]
+        ],
+        "tags": []
     },
     "SA": {
         "name": "Saudi Arabia",
@@ -2007,7 +2204,8 @@
         "colors": [
             "Green",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "SB": {
         "name": "Solomon Islands",
@@ -2018,7 +2216,8 @@
             "Black",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "SC": {
         "name": "Seychelles",
@@ -2029,7 +2228,8 @@
             "Navy",
             "White",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "SD": {
         "name": "Sudan",
@@ -2039,7 +2239,8 @@
             "White",
             "Red",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "SE": {
         "name": "Sweden",
@@ -2047,7 +2248,8 @@
         "colors": [
             "Navy",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "SG": {
         "name": "Singapore",
@@ -2055,7 +2257,8 @@
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "SH": {
         "name": "Saint Helena, Ascension and Tristan da Cunha",
@@ -2065,7 +2268,8 @@
             "Black",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "SI": {
         "name": "Slovenia",
@@ -2075,7 +2279,8 @@
             "Blue",
             "White",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "SJ": {
         "name": "Svalbard and Jan Mayen Islands",
@@ -2084,7 +2289,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "SK": {
         "name": "Slovakia",
@@ -2093,7 +2299,8 @@
             "Red",
             "Navy",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "SL": {
         "name": "Sierra Leone",
@@ -2102,7 +2309,8 @@
             "Blue",
             "White",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "SM": {
         "name": "San Marino",
@@ -2116,7 +2324,8 @@
             "Green",
             "Silver",
             "Brown"
-        ]
+        ],
+        "tags": []
     },
     "SN": {
         "name": "Senegal",
@@ -2125,7 +2334,8 @@
             "Green",
             "Yellow",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "SO": {
         "name": "Somalia",
@@ -2133,7 +2343,8 @@
         "colors": [
             "Blue",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "SR": {
         "name": "Suriname",
@@ -2143,7 +2354,8 @@
             "White",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "SS": {
         "name": "South Sudan",
@@ -2155,7 +2367,8 @@
             "Red",
             "Blue",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "ST": {
         "name": "Sao Tome and Principe",
@@ -2165,7 +2378,8 @@
             "Gold",
             "Red",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "SV": {
         "name": "El Salvador",
@@ -2181,7 +2395,8 @@
             "Orange",
             "Yellow",
             "Teal"
-        ]
+        ],
+        "tags": []
     },
     "SX": {
         "name": "Sint Maarten (Dutch part)",
@@ -2196,7 +2411,8 @@
             "Blue",
             "Silver",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "SY": {
         "name": "Syrian Arab Republic",
@@ -2206,7 +2422,8 @@
             "White",
             "Green",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "SZ": {
         "name": "Kingdom of Eswatini",
@@ -2218,7 +2435,8 @@
             "White",
             "Black",
             "Dark Red"
-        ]
+        ],
+        "tags": []
     },
     "TC": {
         "name": "Turks and Caicos Islands",
@@ -2233,7 +2451,8 @@
             "Pink",
             "Brown",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "TD": {
         "name": "Chad",
@@ -2242,7 +2461,8 @@
             "Red",
             "Gold",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "TF": {
         "name": "French Southern Territories",
@@ -2251,7 +2471,8 @@
             "Navy",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "TG": {
         "name": "Togo",
@@ -2261,7 +2482,8 @@
             "Gold",
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "TH": {
         "name": "Thailand",
@@ -2270,7 +2492,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "TJ": {
         "name": "Tajikistan",
@@ -2280,7 +2503,8 @@
             "White",
             "Red",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "TK": {
         "name": "Tokelau",
@@ -2289,7 +2513,8 @@
             "Navy",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "TL": {
         "name": "Timor-Leste",
@@ -2299,7 +2524,8 @@
             "Gold",
             "Black",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "TM": {
         "name": "Turkmenistan",
@@ -2310,7 +2536,8 @@
             "Red",
             "Gray",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "TN": {
         "name": "Tunisia",
@@ -2318,7 +2545,8 @@
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "TO": {
         "name": "Tonga",
@@ -2326,15 +2554,17 @@
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "TR": {
-        "name": "Republic of Türkiye",
+        "name": "Republic of T\u00fcrkiye",
         "continent": "Asia",
         "colors": [
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "TT": {
         "name": "Trinidad and Tobago",
@@ -2343,7 +2573,8 @@
             "Red",
             "White",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "TV": {
         "name": "Tuvalu",
@@ -2355,7 +2586,8 @@
             "Red",
             "Blue",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "TW": {
         "name": "Taiwan (Republic of China)",
@@ -2364,7 +2596,8 @@
             "Red",
             "Navy",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "TZ": {
         "name": "Tanzania, United Republic of",
@@ -2374,7 +2607,8 @@
             "Blue",
             "Gold",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "UA": {
         "name": "Ukraine",
@@ -2382,7 +2616,8 @@
         "colors": [
             "Blue",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "UG": {
         "name": "Uganda",
@@ -2393,7 +2628,8 @@
             "Red",
             "White",
             "Silver"
-        ]
+        ],
+        "tags": []
     },
     "UM": {
         "name": "US Minor Outlying Islands",
@@ -2403,7 +2639,8 @@
             "Black",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "US": {
         "name": "United States",
@@ -2413,7 +2650,8 @@
             "Black",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "UY": {
         "name": "Uruguay",
@@ -2423,7 +2661,8 @@
             "Navy",
             "Gold",
             "Brown"
-        ]
+        ],
+        "tags": []
     },
     "UZ": {
         "name": "Uzbekistan",
@@ -2433,7 +2672,8 @@
             "Teal",
             "Red",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "VA": {
         "name": "Holy See (Vatican City State)",
@@ -2444,7 +2684,8 @@
             "Black",
             "Silver",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "VC": {
         "name": "Saint Vincent and the Grenadines",
@@ -2453,7 +2694,8 @@
             "Gold",
             "Green",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "VE": {
         "name": "Venezuela, Bolivarian Republic of",
@@ -2463,7 +2705,8 @@
             "Navy",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "VG": {
         "name": "Virgin Islands, British",
@@ -2477,7 +2720,8 @@
             "Gold",
             "Yellow",
             "Brown"
-        ]
+        ],
+        "tags": []
     },
     "VI": {
         "name": "Virgin Islands, U.S.",
@@ -2490,7 +2734,8 @@
             "Blue",
             "Dark Red",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "VN": {
         "name": "Vietnam",
@@ -2498,7 +2743,8 @@
         "colors": [
             "Red",
             "Yellow"
-        ]
+        ],
+        "tags": []
     },
     "VU": {
         "name": "Vanuatu",
@@ -2508,7 +2754,8 @@
             "Green",
             "Black",
             "Gold"
-        ]
+        ],
+        "tags": []
     },
     "WF": {
         "name": "Wallis and Futuna Islands",
@@ -2517,7 +2764,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "WS": {
         "name": "Samoa",
@@ -2526,7 +2774,8 @@
             "Red",
             "Navy",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "XK": {
         "name": "Kosovo",
@@ -2535,7 +2784,8 @@
             "Blue",
             "Gold",
             "White"
-        ]
+        ],
+        "tags": []
     },
     "YE": {
         "name": "Yemen",
@@ -2544,7 +2794,8 @@
             "Black",
             "White",
             "Red"
-        ]
+        ],
+        "tags": []
     },
     "YT": {
         "name": "Mayotte",
@@ -2553,7 +2804,8 @@
             "Red",
             "White",
             "Navy"
-        ]
+        ],
+        "tags": []
     },
     "ZA": {
         "name": "South Africa",
@@ -2565,7 +2817,8 @@
             "White",
             "Gold",
             "Green"
-        ]
+        ],
+        "tags": []
     },
     "ZM": {
         "name": "Zambia",
@@ -2575,7 +2828,8 @@
             "Red",
             "Orange",
             "Black"
-        ]
+        ],
+        "tags": []
     },
     "ZW": {
         "name": "Zimbabwe",
@@ -2586,6 +2840,7 @@
             "Red",
             "Black",
             "White"
-        ]
+        ],
+        "tags": []
     }
 }
