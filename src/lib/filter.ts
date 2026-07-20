@@ -6,7 +6,7 @@ export const multisearch = (
 ): [string, CountriesMap[string]][] => {
   if (!query) return Object.entries(countries);
 
-  const terms = query.split(",");
+  const terms = query.split(",").map((term) => term.trim());
 
   const combinedMap = new Map<string, CountriesMap[string]>();
 
@@ -38,6 +38,6 @@ const matchAnyField = (country: CountryData, query: string): boolean => {
 };
 
 const matchAllFactors = (country: CountryData, query: string): boolean => {
-  const factors = query.split("&");
+  const factors = query.split("&").map((factor) => factor.trim());
   return factors.every((factor) => matchAnyField(country, factor));
 };
