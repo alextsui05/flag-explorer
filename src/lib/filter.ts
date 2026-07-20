@@ -33,7 +33,10 @@ const matchAnyField = (country: CountryData, query: string): boolean => {
   const res =
     country.name.toLowerCase().startsWith(term.toLowerCase()) ||
     country.continent.toLowerCase() === term.toLowerCase() ||
-    country.colors.some((color) => color.toLowerCase() === term.toLowerCase());
+    country.colors.some(
+      (color) => color.toLowerCase() === term.toLowerCase(),
+    ) ||
+    country.tags.some((tag) => tag.toLowerCase() === term.toLowerCase());
   return inverted ? !res : res;
 };
 
